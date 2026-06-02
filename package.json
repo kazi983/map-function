@@ -1,0 +1,23 @@
+{
+  "name": "@kazi983/my-map-function",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "map"
+  ],
+  "homepage": "https://github.com/kazi983/map-function#readme",
+  "bugs": {
+    "url": "https://github.com/kazi983/map-function/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazi983/map-function.git"
+  },
+  "license": "ISC",
+  "author": "kazi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
